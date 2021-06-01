@@ -1,0 +1,70 @@
+@media only screen and (max-width: 1140px){
+    .nav-list{
+        flex-direction: column;
+    }
+    .navbar{
+        flex-direction: column;
+        height: 480px;
+        transition: all 0.7s ease-out;
+    }
+    .rightnav{
+        text-align: center;
+        font-size: 55%;
+        
+    }
+    .burger{
+        display: block;
+    }
+    .h-nav-resp{
+        height: 72px;
+    }
+    .v-class-resp{
+        opacity: 0;
+    }
+    .background{
+        background-size: contain;
+    
+    }
+    .box-main{
+        text-align: center;
+        justify-content: center;
+        max-width: 100%;
+    }
+    .form{
+        max-width: 72%;
+    }
+    
+    .secDesign{
+        height: 1176px; 
+    }
+    .sectionD1{
+        height: 105px;
+        display: flex;
+    }
+    .thumbnail img{
+        height: 168px;
+        width: 142px;
+      
+       
+    }
+    .sectionS1{
+        height: 139px;
+    }    
+    .servicelist li{
+            height: 43px;
+            max-width: 4000px;
+    }
+    .sectiontag1 {
+        height: 633px;
+        display: flex;
+    }
+    .sectionS2{
+        height: 24vh;
+        padding: 30px;
+    }
+    .sectiontag1{
+        padding: 0px 1px;
+        
+    }
+    
+}
